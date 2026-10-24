@@ -1,9 +1,9 @@
 # Sales Data Analysis Using Google Sheets
 
-## Overview
+## 📌 Project Overview
 This project analyzes sales data using Google Sheets to identify revenue trends, product category performance, regional differences, sales representative performance, and customer purchasing patterns.
 
-## Objective
+## 🎯 Project Objectives
 - Analyze total recorded sales revenue and units sold.
 - Compare revenue across regions and product categories.
 - Evaluate sales representative performance.
@@ -13,19 +13,23 @@ This project analyzes sales data using Google Sheets to identify revenue trends,
 
 ## Dataset
 The dataset contains 1,000 sales records and 10 original columns, including sale date, product ID, sales representative, region, sales amount, quantity sold, product category, unit cost, unit price, and customer type.
-## Tools Used
-- Google Sheets
-- Spreadsheet formulas
-- Charts and visualizations
-## Included analysis
-- Monthly and quarterly sales
-- Sales by region
-- Sales by product category
-- Sales by representative
-- Customer-type record mix
-- Data quality checks
-- Chart PNGs and an Excel workbook
-
+## 🛠️ Tools and Technologies
+- Google Sheets: Data preparation, calculations, PivotTables, charts, and dashboard creation.
+- Spreadsheet formulas: Calculating metrics and extracting date information.
+- Data visualization: Presenting business performance through charts.
+## Data Cleaning and Preparation
+1. The following data preparation activities are included in the project:
+2. Checked the dataset for missing values.
+2. Reviewed records for potential duplicates.
+3. Validated date formats and chronological order.
+4. Formatted numerical fields.
+5. Reviewed product categories and customer classifications for consistency.
+6. Created additional date columns for analysis:
+- Year
+- Month
+- Month-Year
+7. Investigated inconsistencies between recorded sales amounts, quantities, unit costs, and unit prices.
+The original dataset is preserved separately from the prepared data to maintain data integrity.
 ## 📈 Key Performance Indicators (KPIs)
 The dashboard focuses on the following metrics:
 - Total Recorded Revenue: Sum of Sales_Amount.
