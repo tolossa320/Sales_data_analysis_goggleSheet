@@ -29,6 +29,7 @@ The dataset contains 1,000 sales records and 10 original columns, including sale
 - Month
 - Month-Year
 7. Investigated inconsistencies between recorded sales amounts, quantities, unit costs, and unit prices.
+  
 The original dataset is preserved separately from the prepared data to maintain data integrity.
 ## 📈 Key Performance Indicators (KPIs)
 The dashboard focuses on the following metrics:
