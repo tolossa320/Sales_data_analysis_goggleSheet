@@ -37,7 +37,7 @@ The dashboard focuses on the following metrics:
 - Revenue by Product Category: Recorded revenue grouped by category.
 - Customer-Type Revenue: Recorded revenue grouped by customer type.
 
-## Important limitations
+## 🔍 Analysis and Business Questions
 - Sales records are rows, not unique orders; the dataset has no order ID.
 - Customer type counts are records, not distinct customers; no customer ID is provided.
 - Profit/margin is intentionally omitted until the meanings of Sales_Amount, Unit_Cost, and Unit_Price are verified.
