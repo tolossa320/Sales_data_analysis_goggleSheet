@@ -106,7 +106,7 @@ For this reason:
 
 Google Sheets Dashboard: [[Insert your Google Sheets dashboard link](https://docs.google.com/spreadsheets/d/1zb7hkWJpwclSuSLTPRF2HRCYBN-YORtWK3ARRyUWtjg/edit?usp=sharing)]
 
-Dashboard Screenshot:(https://github.com/tolossa320/Sales_data_analysis_goggleSheet/blob/main/Sales%20data%20Analysis%20Portfolio%20-%20Google%20Sheets.jpg)
+Dashboard Screenshot:[(https://github.com/tolossa320/Sales_data_analysis_goggleSheet/blob/main/Sales%20data%20Analysis%20Portfolio%20-%20Google%20Sheets.jpg)]
 
 
 
