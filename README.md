@@ -27,12 +27,15 @@ The dataset contains 1,000 sales records and 10 original columns, including sale
 - Chart PNGs and an Excel workbook
 
 ## 📈 Key Performance Indicators (KPIs)
-- Regional performance: North recorded the highest sales (1,369,612.51); South recorded the lowest (1,154,250.86).
-- Product categories: Clothing had the highest recorded category sales (1,313,474.36).
-- Sales representatives: David had the highest recorded sales (1,141,737.36); Charlie had the lowest (860,811.48).
-- Monthly trend: 2023-01 was the highest-sales month (476,092.36); 2024-01 was the lowest (19,328.01).
-- Customer type counts are record counts, not unique people, because there is no customer ID.
-- Profit and profit margin are not calculated because the meaning of Sales_Amount, Unit_Cost and Unit_Price needs confirmation.
+The dashboard focuses on the following metrics:
+- Total Recorded Revenue: Sum of Sales_Amount.
+- Total Units Sold: Sum of Quantity_Sold.
+- Total Sales Records: Count of sales records.
+- Average Recorded Sales per Record: Average of Sales_Amount.
+- Unique Product IDs: Count of distinct product identifiers.
+- Revenue by Region: Recorded revenue grouped by region.
+- Revenue by Product Category: Recorded revenue grouped by category.
+- Customer-Type Revenue: Recorded revenue grouped by customer type.
 
 ## Important limitations
 - Sales records are rows, not unique orders; the dataset has no order ID.
