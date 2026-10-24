@@ -26,7 +26,7 @@ The dataset contains 1,000 sales records and 10 original columns, including sale
 - Data quality checks
 - Chart PNGs and an Excel workbook
 
-## Key findings
+## 📈 Key Performance Indicators (KPIs)
 - Regional performance: North recorded the highest sales (1,369,612.51); South recorded the lowest (1,154,250.86).
 - Product categories: Clothing had the highest recorded category sales (1,313,474.36).
 - Sales representatives: David had the highest recorded sales (1,141,737.36); Charlie had the lowest (860,811.48).
