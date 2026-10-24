@@ -70,13 +70,18 @@ This analysis compares:
 - Product category performance.
 - Monthly sales trends.
 - Regional sales performance.
-## Recreate in Google Sheets
-1. Open Google Sheets and create a blank spreadsheet.
-2. Select **File → Import → Upload** and import `sales_data_with_time_fields.csv`.
-3. Import the summary CSVs into separate tabs or create pivot tables from the analysis data.
-4. Build line/bar/pie charts from the summary tabs.
-5. Add slicers for Region, Product_Category, Sales_Rep, and Customer_Type if available in your Sheets interface.
-6. Use the chart PNGs as reference images; the values in the tables are calculated from the supplied dataset.
+## 📊 Dashboard Design
+The dashboard is designed to present important business metrics and sales trends in one place.
+
+Planned visualizations include:
+
+- KPI cards for total recorded revenue, units sold, sales records, and average recorded sales.
+- A line chart showing monthly revenue trends.
+- A bar chart comparing revenue by product category.
+- A regional sales performance chart.
+- A customer-type comparison chart.
+- A sales representative performance chart.
+The dashboard uses consistent formatting, clear chart titles, and readable visualizations to communicate findings effectively.
 
 ## Files
 - `sales_data_raw_copy.csv`: copy of source data
