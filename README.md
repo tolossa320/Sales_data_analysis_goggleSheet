@@ -38,8 +38,33 @@ The dashboard focuses on the following metrics:
 - Customer-Type Revenue: Recorded revenue grouped by customer type.
 
 ## 🔍 Analysis and Business Questions
-1. Sales Performance Analysis
+## 1. Sales Performance Analysis
+- What is the total recorded revenue?
+- How many units were sold?
+-What is the average recorded sales amount per record?
+How does revenue change over time?
 
+## 2. Product Category Analysis
+- Which product categories generate the highest recorded revenue?
+- Which categories sell the largest number of units?
+- Are the highest-revenue categories also the highest-volume categories?
+## 3. Regional Sales Analysis
+- Which region records the highest sales?
+- Which region records the lowest sales?
+- How does product performance differ across regions?
+## 4. Sales Representative Analysis
+- Which sales representatives record the highest revenue?
+- How many units are sold by each representative?
+- What differences exist in recorded sales performance?
+## 5. Customer Purchasing Patterns
+Customer purchasing patterns describe the behaviors observed in sales records, including the types of products purchased, recorded spending, purchase timing, and differences between customer classifications.
+
+This analysis compares:
+- New versus returning customer transactions.
+- Recorded revenue by customer type.
+- Product category performance.
+- Monthly sales trends.
+- Regional sales performance.
 ## Recreate in Google Sheets
 1. Open Google Sheets and create a blank spreadsheet.
 2. Select **File → Import → Upload** and import `sales_data_with_time_fields.csv`.
