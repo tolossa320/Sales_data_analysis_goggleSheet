@@ -13,7 +13,10 @@ This project analyzes sales data using Google Sheets to identify revenue trends,
 
 ## Dataset
 The dataset contains 1,000 sales records and 10 original columns, including sale date, product ID, sales representative, region, sales amount, quantity sold, product category, unit cost, unit price, and customer type.
-
+## Tools Used
+- Google Sheets
+- Spreadsheet formulas
+- Charts and visualizations
 ## Included analysis
 - Monthly and quarterly sales
 - Sales by region
