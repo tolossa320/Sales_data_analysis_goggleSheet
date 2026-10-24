@@ -11,11 +11,8 @@ This project analyzes sales data using Google Sheets to identify revenue trends,
 - Compare new and returning customer transactions.
 - Present findings through a visual dashboard.
 
-## Headline KPIs
-- Total recorded sales: 5,019,265.23
-- Total units sold: 25,355
-- Sales records: 1,000
-- Average sales per record: 5,019.27
+## Dataset
+The dataset contains 1,000 sales records and 10 original columns, including sale date, product ID, sales representative, region, sales amount, quantity sold, product category, unit cost, unit price, and customer type.
 
 ## Included analysis
 - Monthly and quarterly sales
