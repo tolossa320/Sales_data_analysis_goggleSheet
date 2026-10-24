@@ -81,13 +81,45 @@ Planned visualizations include:
 - A regional sales performance chart.
 - A customer-type comparison chart.
 - A sales representative performance chart.
+
 The dashboard uses consistent formatting, clear chart titles, and readable visualizations to communicate findings effectively.
 
-## Files
-- `sales_data_raw_copy.csv`: copy of source data
-- `sales_data_with_time_fields.csv`: data with Sale_Month, Sale_Year, Sale_Quarter
-- Summary CSV files: monthly, quarterly, region, category, representative, customer type
-- `data_quality_checks.csv`: data quality checks
-- `sales_analysis_workbook.xlsx`: workbook with data and summary tabs
-- `charts/`: charts generated from the data
-- `dashboard_design_reference.png`: supplied visual design reference, if included
+## 💡 Business Value
+This project demonstrates how spreadsheet-based analysis can help businesses:
+- Monitor sales performance.
+- Identify high-performing products and regions.
+- Compare sales representative results.
+- Understand differences between new and returning customer transactions.
+- Identify periods of high and low recorded sales.
+- Improve reporting and support evidence-based decisions.
+## ⚠️ Data Quality Considerations
+
+The recorded Sales_Amount does not consistently equal Quantity_Sold × Unit_Price.
+
+For this reason:
+- Recorded revenue analysis uses the original Sales_Amount field.
+- Profit calculations are treated as estimates until the discrepancies are investigated.
+- The difference between unit price and unit cost is not treated as verified total profit.
+- Results are interpreted within the limitations of the available data.
+
+## 🔗 Project Links
+
+Google Sheets Dashboard: [[Insert your Google Sheets dashboard link](https://docs.google.com/spreadsheets/d/1zb7hkWJpwclSuSLTPRF2HRCYBN-YORtWK3ARRyUWtjg/edit?usp=sharing)]
+
+GitHub Repository: [Insert your repository URL]
+
+Dashboard Screenshot: View dashboard.png
+
+## 👨‍💻 Author
+
+## Tolossa Kenaw
+
+Aspiring Data Analyst | Spreadsheet Analytics | Data Visualization | SQL | Power BI
+
+## 📝 Conclusion
+
+This project demonstrates a practical approach to transforming raw sales data into structured information using Google Sheets. Through data preparation, KPI calculations, PivotTables, charts, and customer purchasing pattern analysis, the project illustrates how data analysis can support business performance monitoring and decision-making.
+
+The project also demonstrates the importance of data quality, transparent assumptions, and clear documentation when presenting analytical findings.
+
+## Tools: Google Sheets · PivotTables · Spreadsheet Formulas · Data Visualization · GitHub
