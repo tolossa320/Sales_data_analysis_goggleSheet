@@ -38,10 +38,7 @@ The dashboard focuses on the following metrics:
 - Customer-Type Revenue: Recorded revenue grouped by customer type.
 
 ## 🔍 Analysis and Business Questions
-- Sales records are rows, not unique orders; the dataset has no order ID.
-- Customer type counts are records, not distinct customers; no customer ID is provided.
-- Profit/margin is intentionally omitted until the meanings of Sales_Amount, Unit_Cost, and Unit_Price are verified.
-- Month-to-month changes do not, by themselves, prove seasonality or explain why sales changed.
+1. Sales Performance Analysis
 
 ## Recreate in Google Sheets
 1. Open Google Sheets and create a blank spreadsheet.
