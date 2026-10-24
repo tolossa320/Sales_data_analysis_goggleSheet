@@ -1,7 +1,7 @@
-# Sales Data Analysis Project
+# Sales Data Analysis Using Google Sheets
 
 ## Overview
-A portfolio-ready analysis of the provided sales dataset, prepared to support a Google Sheets dashboard matching the supplied dashboard design.
+This project analyzes sales data using Google Sheets to identify revenue trends, product category performance, regional differences, sales representative performance, and customer purchasing patterns.
 
 ## Dataset
 - Records: 1,000
