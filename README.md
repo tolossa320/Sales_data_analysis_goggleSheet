@@ -3,11 +3,13 @@
 ## Overview
 This project analyzes sales data using Google Sheets to identify revenue trends, product category performance, regional differences, sales representative performance, and customer purchasing patterns.
 
-## Dataset
-- Records: 1,000
-- Fields: Product_ID, Sale_Date, Sales_Rep, Region, Sales_Amount, Quantity_Sold, Product_Category, Unit_Cost, Unit_Price, Customer_Type
-- Date range: 2023-01-01 to 2024-01-01
-- Currency: not specified in the source file.
+## Objective
+- Analyze total recorded sales revenue and units sold.
+- Compare revenue across regions and product categories.
+- Evaluate sales representative performance.
+- Identify monthly sales trends.
+- Compare new and returning customer transactions.
+- Present findings through a visual dashboard.
 
 ## Headline KPIs
 - Total recorded sales: 5,019,265.23
